@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Street Dreams",
+  "base_artist": "Zeebra",
+  "createdAt": "2025-12-02T11:26:32.104504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Street Dreams",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/01_Street_Dreams_Nas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Street Dreams (J.PERIOD Remix)",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/02_Street_Dreams_(J.PERIOD_Remix)_Nas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Street Dreams",
+      "artist": "Germs",
+      "has_synced": false,
+      "path": "select/03_Street_Dreams_Germs.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Street Dreams",
+      "artist": "Hollywood Undead",
+      "has_synced": true,
+      "path": "select/04_Street_Dreams_Hollywood_Undead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Street Dreams II",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/05_Street_Dreams_II_Logic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Street Dreams",
+      "artist": "Chet Atkins",
+      "has_synced": false,
+      "path": "select/06_Street_Dreams_Chet_Atkins.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Street Dreams",
+      "artist": "Joe",
+      "has_synced": true,
+      "path": "select/07_Street_Dreams_Joe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Street Dreams - Remix",
+      "artist": "Nas feat. R. Kelly",
+      "has_synced": true,
+      "path": "select/08_Street_Dreams_-_Remix_Nas_feat._R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Street Dreams (feat. R. Kelly) (Remix)",
+      "artist": "Nas/R. Kelly",
+      "has_synced": true,
+      "path": "select/09_Street_Dreams_(feat._R._Kelly)_(Remix)_Nas_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Street Dreams (prod Roy \"Royalty\" Hamilton)",
+      "artist": "Joe",
+      "has_synced": true,
+      "path": "select/10_Street_Dreams_(prod_Roy__Royalty__Hamilton)_Joe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Street Dreams",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/11_Street_Dreams_Logic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Street Dreams (Remix) (feat. R. Kelly)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/12_Street_Dreams_(Remix)_(feat._R._Kelly)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Street Dreams (iTunes Bonus Track)",
+      "artist": "Hollywood Undead",
+      "has_synced": true,
+      "path": "select/13_Street_Dreams_(iTunes_Bonus_Track)_Hollywood_Undead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Street Dreams (Album Demo)",
+      "artist": "Hollywood Undead [waptorrent.ru]",
+      "has_synced": true,
+      "path": "select/14_Street_Dreams_(Album_Demo)_Hollywood_Undead_[waptorrent.ru].lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Street Dreams (Alternate Version)",
+      "artist": "Hollywood Undead [waptorrent.ru]",
+      "has_synced": true,
+      "path": "select/15_Street_Dreams_(Alternate_Version)_Hollywood_Undead_[waptorrent.ru].lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Street Dreams - Bonus Verse",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/16_Street_Dreams_-_Bonus_Verse_Nas.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Street Dreams (J.PERIOD Remix) [Mixed]",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/17_Street_Dreams_(J.PERIOD_Remix)_[Mixed]_Nas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Street Dreams",
+      "artist": "Zeebra",
+      "has_synced": false,
+      "path": "select/pl_01_Street_Dreams_Zeebra.txt"
+    }
+  ]
+}
